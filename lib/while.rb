@@ -1,6 +1,6 @@
 def using_while
 	levitation_force = 6
-	while levit
+	while levitation_force < 10
+		puts 
+	end
 end
-
-
